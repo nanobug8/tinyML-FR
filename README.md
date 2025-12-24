@@ -51,6 +51,9 @@ The system was evaluated obtaining the following results in the best test cases:
 * **NumPy** (Optimized matrix calculation)
 * **OpenCV** (Image pre-processing)
 
+  <img width="143" height="151" alt="image" src="https://github.com/user-attachments/assets/790d78a3-7e84-44e4-b7ee-12ed6fe2fb62" />
+
+
 ## 📦 Installation & Usage
 
 1. Clone the repository:
